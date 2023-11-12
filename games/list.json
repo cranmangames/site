@@ -850,5 +850,11 @@
     "fontSize": 16,
     "link": "https://cornandbutter.github.io/webretro/index.html?core=snes9x&rom=smworld.smc",
     "image": "images/smworld.jpg"
+  },
+  {
+    "name": "Tunnel Rush Mania",
+    "fontSize": 16,
+    "link": "https://cornandbutter.github.io/games2/tunnelrushmania/index.html",
+    "image": "images/trm.png"
   }
 ]
