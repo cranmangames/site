@@ -856,5 +856,11 @@
     "fontSize": 17,
     "link": "https://cornandbutter.github.io/games2/tunnelrushmania/index.html",
     "image": "images/trm.png"
+  },
+  {
+    "name": "Doodle Jump",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games2/doodlejump/index.html",
+    "image": "images/doodlejump.jpg"
   }
 ]
