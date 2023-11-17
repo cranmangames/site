@@ -862,5 +862,11 @@
     "fontSize": 20,
     "link": "https://cornandbutter.github.io/games2/doodlejump/index.html",
     "image": "images/doodlejump.jpg"
+  },
+  {
+    "name": "Endless Car Chase",
+    "fontSize": 17,
+    "link": "https://cornandbutter.github.io/games2/endlesscarchase/index.html",
+    "image": "images/endlesscarchase.png"
   }
 ]
