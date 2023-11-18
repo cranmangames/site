@@ -874,5 +874,11 @@
     "fontSize": 17,
     "link": "https://cornandbutter.github.io/games2/retrobowlcollege/index.html",
     "image": "images/retrobowlcollege.png"
+  },
+  {
+    "name": "BLOXORZ",
+    "fontSize": 20,
+    "link": "https://cornandbutter.github.io/games2/bloxorz/index.html",
+    "image": "images/bloxorz.jpg"
   }
 ]
