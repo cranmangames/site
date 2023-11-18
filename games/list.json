@@ -868,5 +868,11 @@
     "fontSize": 17,
     "link": "https://cornandbutter.github.io/games2/endlesscarchase/index.html",
     "image": "images/endlesscarchase.png"
+  },
+  {
+    "name": "Retro Bowl College",
+    "fontSize": 17,
+    "link": "https://cornandbutter.github.io/games2/retrobowlcollege/index.html",
+    "image": "images/retrobowlcollege.png"
   }
 ]
